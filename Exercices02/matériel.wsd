@@ -1,0 +1,12 @@
+@startuml
+actor User
+boundary WebBrowser
+control WebServer
+database Database
+
+User -> WebBrowser : Open Login Page
+WebBrowser -> WebServer : Submit Login Form
+WebServer -> Database : Validate Credentials
+Database --> WebServer : Credentials Valid/Invalid
+WebServer -> WebBrowser : Display Dashboard or Error Message
+@enduml
