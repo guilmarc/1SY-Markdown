@@ -18,7 +18,7 @@ Dessinez le modèle du domaine d’un mini système de gestion de condo locatifs
 - Bail (date, renouveller())
 
 ## 😄 Question 03 - CSBuddy
-d’un réseau social privé nommé `CSBuddy`.  Dans ce groupe un membre (nom & alias) peut se faire de 1 à 5000 amis.  Pour ce qui est des communications, il sera possible, bien entendu, de communiquer à deux mais aussi en groupe (nom & alias).  Nous désirons finalement être en mesure de célébrer les anniversaires d’amitié.
+Un réseau social privé est `CSBuddy`.  Un membre (nom & alias) peut se faire de 1 à 5000 amis.  Pour ce qui est des communications, il sera possible, bien entendu, de communiquer à deux (tout comme dans Messenger) mais aussi en groupe (nom).  Nous désirons finalement être en mesure de célébrer les anniversaires d’amitié.
 
 Réfléchissez aux entités nécessaires et aux liens entre eux et dessinez cette partie du modèle du domaine du réseau social.
 
