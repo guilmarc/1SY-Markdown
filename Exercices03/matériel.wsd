@@ -1,0 +1,24 @@
+@startuml
+actor Joueur
+participant "Client Jeu" as Client
+participant "Serveur Authentification" as Auth
+participant "Serveur Jeu" as Serveur
+participant "Base de données" as DB
+
+Joueur -> Client : Lancer le jeu
+Client -> Auth : Demande de connexion (pseudo, mot de passe)
+Auth -> DB : Vérifier identifiants
+DB --> Auth : Résultat (valide)
+Auth --> Client : Connexion acceptée
+
+Joueur -> Client : Rejoindre une partie multijoueur
+Client -> Serveur : Requête de session
+Serveur -> DB : Vérifier disponibilités
+DB --> Serveur : Infos partie
+Serveur --> Client : Détails de la session
+Client --> Joueur : Partie prête, chargement...
+
+Joueur -> Client : Jouer
+Client -> Serveur : Synchronisation en temps réel
+Serveur --> Client : État du jeu mis à jour
+@enduml

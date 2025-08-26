@@ -1,17 +1,9 @@
 <p align="Center"><img src="../includes/logo.png" alt="drawing" width="100"/></p>
 <h4 align="Center">1SY - Analyse Objet</h4>
 
-# Exercices 01 - UCD
+# 🏋🏻‍♂️ Exercices 01 - UCD
 
-#### 📝 Lien vers les [notes de cours](https://slides.com/hkoncept/1sy-02/fullscreen?token=RthcbPo9).
-
-## Structure à utiliser
-1. Créez un dossier (ou dépôt github) principal nommé `1SY-AnalyseObjet` et ajoutez-y un sous-dossier `UML`.
-2. Créez un répertoire `Exercices01`.
-3. Pour chacune des questions, ajoutez-y un fichier portant le nom de la question et inscrivez-y la réponse :
-   1. Un `.txt` pour une question textuelle.
-   2. Un `.wsd` pour écrire du code PlanUML.
- > Exemple: `question02.1.wsd`
+#### 📁 [Structure à utiliser](../includes/rules.md)
 
 ## ⛽ Question 01 - James le pompiste
 
