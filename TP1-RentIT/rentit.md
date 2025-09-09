@@ -38,10 +38,9 @@ Vous avez reçu le mandat d'effectuer l'analyse objet de l'application RentIT.
 Vous devrez élaborer :
 
 1. Le diagramme de cas d'utilisations.
-2. Les 3 cas d'utilisations détaillés le plus importants.
-3. Les diagrammes de séquence de ces 3 cas.
+2. Les 2 cas d'utilisations détaillés le plus importants.
+3. Les diagrammes de séquence de ces 2 cas.
 4. Le modèle du domaine.
 5. Le diagramme d'état d'une voiture.
-6. Le diagramme de classes.
 
 <hr><p align="Center"><img src="../includes/end.png" alt="drawing" width="150"/></p>
