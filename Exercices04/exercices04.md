@@ -18,6 +18,8 @@ Une porte munie d’une serrure offre les opérations suivantes :
 
 La serrure peut être déverrouillée ou verrouillé à simple ou double tour.
 
+Écrire le diagramme d'état de la __serrure__.
+
 
 ## 🪟 Question 03 - Windows
 Modéliser le diagramme d’état d’une fenêtre informatique possédant ces états : 
