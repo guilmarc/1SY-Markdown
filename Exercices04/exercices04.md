@@ -37,10 +37,4 @@ Vous devrez inclure au **moins** ces états :
 - Veuf
 - Divorcé
 
-##  🔋 Question 05 - Pile ou face ?
-Dessiner le diagramme d'état d'une pile informatique incluant les cardinalités (avec conditions) et les événements sachant que les 3 états de la pile sont :
-- Vide
-- Utilisée
-- Pleine
-
 <hr><p align="Center"><img src="../includes/end.png" alt="drawing" width="150"/></p>
