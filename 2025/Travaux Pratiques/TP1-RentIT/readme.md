@@ -36,5 +36,7 @@ Vous devrez élaborer :
 4. Le modèle du domaine (en équipe).
 5. Le diagramme d'état d'une voiture (en équipe).
 
+**TOTAL**                                                              | **5** |
+
 <hr><p align="Center"><img src="../../../includes/end.png" alt="drawing" width="150"/></p>
 
