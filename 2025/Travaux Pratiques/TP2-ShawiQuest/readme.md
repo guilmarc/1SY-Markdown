@@ -24,7 +24,7 @@ Yvan vous demande d'utiliser votre passion afin de réaliser un jeu des plus cr�
 
 La simulation, présentée en mode console, devra pouvoir s'exécuter automatiquement pendant une durée aléatoire de 20 à 40 secondes. Elle devra se relancer quand le client appuiera sur la barre d'espacement.
 
-Les deux joueurs fictifs s’attaqueront tour à tour avec des armes différentes qui présentent des dégâts variés, jusqu’à ce que la ligne de vie de l’un des joueurs atteigne zéro.
+Les deux joueurs fictifs s’affronteront à tour de rôle, en utilisant à chaque fois des armes et des défenses différentes, causant ainsi des dégâts variables, jusqu’à ce que la ligne de vie de l’un d’eux tombe à zéro.  La classe `GameOverManager` s'occupera de terminer la simulation, le cas échéant.
 
 Vous devrez obligatoirement utiliser le design pattern *Singleton* afin d’ajouter des **propriétés au système** (exemple: ratio de force de frappe, temps d'attente entre les attaques, etc...) (selon votre créativité) et deux des trois autres patterns pour programmer le reste de la simulation.
 
