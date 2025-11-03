@@ -42,13 +42,13 @@ Vous devrez obligatoirement utiliser le design pattern *Singleton* afin d’ajou
 
 | #   | Critère                                    | Pts |
 | --- | ------------------------------------------ | --- |
-| 01  | Utilisation juste du pattern Singleton     | 1   |
-| 02  | Utilisation juste du pattern #2            | 2   |
-| 03  | Utilisation juste du pattern #3            | 2   |
-| 04  | Respect des principes orientés-objet       | 1   |
+| 01  | Utilisation juste du pattern Singleton     | 2   |
+| 02  | Utilisation juste du pattern #2            | 4   |
+| 03  | Utilisation juste du pattern #3            | 4   |
+| 04  | Respect des principes orientés-objet       | 3   |
 | 05  | Respect des critères et des demandes       | 2   |
-| 06  | Explications claires des patterns utilisés | 3   |
+| 06  | Explications claires des patterns utilisés | 10 |
 | P   | Retard dans la remise (par jour)           | -10% |
-|    | **TOTAL**           | **10** |
+|    | **TOTAL**           | **25** |
 <hr><p align="Center"><img src="../../../includes/end.png" alt="drawing" width="150"/></p>
 
