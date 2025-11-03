@@ -33,9 +33,9 @@ Vous devrez obligatoirement utiliser le design pattern *Singleton* afin d’ajou
 - Singleton (mode lazy).
 
 #### Choisir 2 dans ces 3 patterns :
-- Observer.
-- Decorator.
-- Strategy.
+- [Observer](http://bin.cshawi.info/2025/1SY/ShawiQuest(Observer).zip).
+- [Decorator](https://slides.com/hkoncept/a25-1sy-08/fullscreen?token=xtffuPUv).
+- [Strategy](https://slides.com/hkoncept/a25-1sy-09/fullscreen?token=6jDRLDhm).
 
 ## Grille d'auto correction
 
