@@ -1,7 +1,7 @@
 <p align="Center"><img src="../../../includes/logo.png" alt="drawing" width="100"/></p>
 <h4 align="Center">1SY - Analyse Objet</h4>
 
-# 🏋🏻‍♂️ Projet #2 - ShawiQuest I (10%)
+# 🏋🏻‍♂️ Projet #2 - ShawiQuest I (25%)
 
 <p align="Center"><img src="../../../includes/ShawiQuest.png" alt="drawing" width="350"/></p>
 
