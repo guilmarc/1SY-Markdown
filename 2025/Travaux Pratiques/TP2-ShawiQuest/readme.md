@@ -26,7 +26,7 @@ La simulation, présentée en mode console, devra pouvoir s'exécuter automatiqu
 
 Les deux joueurs fictifs s’attaqueront tour à tour avec des armes différentes qui présentent des dégâts variés, jusqu’à ce que la ligne de vie de l’un des joueurs atteigne zéro.
 
-Vous devrez obligatoirement utiliser le design pattern *Singleton* afin d’ajouter des propriétés au système (selon votre créativité) et deux des trois autres patterns pour programmer le reste de la simulation.
+Vous devrez obligatoirement utiliser le design pattern *Singleton* afin d’ajouter des **propriétés au système** (exemple: ratio de force de frappe, temps d'attente entre les attaques, etc...) (selon votre créativité) et deux des trois autres patterns pour programmer le reste de la simulation.
 
 
 ### Patterns à utiliser :
@@ -50,5 +50,6 @@ Vous devrez obligatoirement utiliser le design pattern *Singleton* afin d’ajou
 | 06  | Explications claires des patterns utilisés | 10 |
 | P   | Retard dans la remise (par jour)           | -10% |
 |    | **TOTAL**           | **25** |
+| B  | Utilisation juste du pattern #3 (bonus) | 1 |
 <hr><p align="Center"><img src="../../../includes/end.png" alt="drawing" width="150"/></p>
 
