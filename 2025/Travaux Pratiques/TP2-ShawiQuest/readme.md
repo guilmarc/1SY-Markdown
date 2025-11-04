@@ -33,7 +33,7 @@ Vous devrez obligatoirement utiliser le design pattern *Singleton* afin d’ajou
 - Singleton (mode lazy).
 
 #### Choisir 2 dans ces 3 patterns :
-- [Observer](http://bin.cshawi.info/2025/1SY/ShawiQuest(Observer).zip).
+- [Observer](https://bin.cshawi.info/2025/1SY/ShawiQuest(Observer).zip).
 - [Decorator](https://bin.cshawi.info/2025/1SY/HotMugCaf%C3%A9(Decorator).zip).
 - [Strategy](https://bin.cshawi.info/2025/1SY/SimDuck(Strategy).zip).
 
